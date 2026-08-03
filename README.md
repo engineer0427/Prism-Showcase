@@ -30,18 +30,6 @@
 
 ---
 
-## 📂 Repository Structure
-```text
-Prism/
-├── assets/
-│   └── poc_benchmark_report.png
-├── core/
-│   ├── refa.py             # Rényi Entropy Filtering Core
-│   ├── eif.py              # Extended Information Filter Module
-│   └── crb_control.py      # CRB Convergence Control Logic
-└── README.md
-```
-
 ## 📄 독점 및 법적 고지 (Proprietary & Legal Notice)
 Copyright © 2026 Landuaer. All rights reserved. 
 
