@@ -1,7 +1,6 @@
 # Prism: REFA Core Engine
 > **Deterministic Real-time Signal Purification & Extended Information Filtering Framework**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![Patent Status](https://img.shields.io/badge/Patent-Pending-orange.svg)]()
 
