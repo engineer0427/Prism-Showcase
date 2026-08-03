@@ -75,7 +75,7 @@ DRFM 기만 재밍이 주입된 복합 시계열 스트림에서 REFA 코어가 
 ---
 
 ## 💼 Intellectual Property (IP) Licensing & Business Model
-본 프로젝트의 상업적 권리와 글로벌 라이선싱 비즈니스는 **지식재산권 기술 지주회사 '란더(Landauer)'**에 의해 독점 관리 및 보호됩니다.
+본 프로젝트의 상업적 권리와 글로벌 라이선싱 비즈니스는 **원천기술 IP 라이선서 '란더(Landauer)'**에 의해 독점 관리 및 보호됩니다.
 
 - **Licensing Architecture:** 원천 기술 유출 방지를 위해 소스코드는 완전히 비공개로 유지되며, 파트너사에게는 각 플랫폼 환경에 커스텀 빌드된 **암호화된 블랙박스 라이브러리(Compiled SDK / Compiled Binary)** 형태로 IP가 공급됩니다.
 - **Revenue Framework:** 글로벌 방산 및 항법 규격에 기반한 가치 공유형 라이선싱 및 기술 이스턴트 구조 적용.
