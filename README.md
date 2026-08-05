@@ -5,7 +5,7 @@
 ---
 
 ### 📜 Patent & Academic Status
-- **Patent Status:** 대한민국 특허청(KIPO) **독점 원천 기술 특허 출원 완료** (`제 10-2026-0143555 호`)
+- **Patent Status:** 대한민국 지식재산처(MOIP) **독점 원천 기술 특허 출원 완료** (`제 10-2026-0143555 호`)
 - **Digital Object Identifier:** CERN **Zenodo 공식 고유 DOI 박제 예정 (프리프린트 연계)**
 
 ---
